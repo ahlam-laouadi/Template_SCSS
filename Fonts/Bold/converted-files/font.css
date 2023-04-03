@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Cabin-Bold';
+  src: url('Cabin-Bold.eot');
+  src: url('Cabin-Bold.eot?#iefix') format('embedded-opentype'),
+       url('Cabin-Bold.svg#Cabin-Bold') format('svg'),
+       url('Cabin-Bold.ttf') format('truetype'),
+       url('Cabin-Bold.woff') format('woff'),
+       url('Cabin-Bold.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
